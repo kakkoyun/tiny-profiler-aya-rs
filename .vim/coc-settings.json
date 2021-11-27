@@ -1,0 +1,3 @@
+{
+  "rust-analyzer.linkedProjects": ["Cargo.toml", "tiny-profiler-ebpf/Cargo.toml"]
+}
